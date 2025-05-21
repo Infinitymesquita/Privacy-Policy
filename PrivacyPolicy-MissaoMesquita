@@ -7,28 +7,29 @@
 </head>
 <body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
   <h1>Política de Privacidade</h1>
-  <p><strong>Nome do Jogo:</strong> [Seu Jogo]</p>
-  <p><strong>Última atualização:</strong> [Data]</p>
+  <p><strong>Missão Mesquita:</strong> [Seu Jogo]</p>
+  <p><strong>21/05/2025:</strong> [Data]</p>
 
   <h2>1. Coleta de Dados</h2>
   <p>Este jogo não coleta, armazena nem compartilha qualquer informação pessoal dos usuários.</p>
 
   <h2>2. Permissões</h2>
-  <p>O jogo não solicita permissões especiais do dispositivo.</p>
+  <p>O jogo pode solicitar permissão para acessar a <strong>câmera do dispositivo</strong> exclusivamente para ativar a funcionalidade de <strong>Realidade Aumentada (AR)</strong>. Essa funcionalidade é opcional e somente será usada se o usuário optar por acessá-la.</p>
+  <p>As imagens da câmera <strong>não são gravadas, armazenadas ou transmitidas</strong> por nós. O acesso ocorre apenas durante o uso ativo da funcionalidade AR.</p>
 
   <h2>3. Dados de Uso</h2>
-  <p>Podemos usar ferramentas como o Google Play Console para obter estatísticas anônimas de uso. Nenhum dado identificável é coletado.</p>
+  <p>Podemos utilizar ferramentas como o Google Play Console para obter estatísticas anônimas de uso. Nenhum dado identificável é coletado.</p>
 
   <h2>4. Publicidade</h2>
   <p>O jogo pode exibir anúncios usando plataformas como o AdMob. Essas plataformas podem utilizar identificadores anônimos. Veja a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
 
   <h2>5. Crianças</h2>
-  <p>O jogo é apropriado para todas as idades e não coleta dados pessoais de crianças.</p>
+  <p>O jogo é apropriado para todas as idades. A funcionalidade de AR é opcional e não coleta dados pessoais. Não coletamos informações de crianças.</p>
 
   <h2>6. Alterações</h2>
   <p>Esta política pode ser atualizada. Quaisquer alterações serão publicadas aqui.</p>
 
   <h2>7. Contato</h2>
-  <p>Se você tiver dúvidas, entre em contato por e-mail: [seu_email@exemplo.com]</p>
+  <p>Se você tiver dúvidas, entre em contato por e-mail: [infinityrunmesquita@gmail.com]</p>
 </body>
 </html>
